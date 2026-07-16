@@ -1,0 +1,6 @@
+{
+  "name": "habitat 🏠",
+  "description": "A calm, minimal habit tracker with daily rotating Quranic duas and tasbeehs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
